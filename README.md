@@ -1,7 +1,7 @@
-# first_quest
+# Skyfall Emergency
 # About the Project
 
-Welcome to our first GitHub project, “GAME NAME” ✈️. This project is a text-based game where you find yourself in a dangerous situation on a plane. The lives of everyone, including yours, are in your hands. This game is implemented using basic Python functionalities.
+Welcome to our first GitHub project, Skyfall Emergency ✈️. This project is a text-based game where you find yourself in a dangerous situation on a plane. The lives of everyone, including yours, are in your hands. This game is implemented using basic Python functionalities.
 
 ## Objective
 
@@ -13,7 +13,7 @@ The game is developed entirely in Python, utilizing fundamental concepts. Player
 
 ## Project Structure
 
-This project consists of a single Python script that serves as the main game engine. The script contains all the necessary code to run the game and guide players through their adventures in the world of GAME NAME.
+This project consists of a single Python script that serves as the main game engine. The script contains all the necessary code to run the game and guide players through their adventures in the world of Skyfall Emergency.
 
 ## Project Development Time
 
@@ -23,6 +23,6 @@ The development time of this project spanned over a period of 2 weeks, during wh
 
 This is our first project on GitHub, and we are very excited to share it with you! With this game, we aimed to showcase the knowledge we acquired over the past weeks during the Bootcamp, translating our ideas into code using Python.
 
-On behalf of the team, we hope you enjoy GAME NAME as much as we enjoyed the process of creating it.
+On behalf of the team, we hope you enjoy Skyfall Emergency ✈️ as much as we enjoyed the process of creating it.
 
 Thank you all 😊
