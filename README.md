@@ -1,7 +1,7 @@
 # first_quest
 # About the Project
 
-Welcome to our first GitHub project, “GAME NAME” ✈️. This project is a text-based game where you find yourself in a dangerous situation aboard a plane. The lives of everyone, including yours, are in your hands. This game is implemented using basic Python functionalities.
+Welcome to our first GitHub project, “GAME NAME” ✈️. This project is a text-based game where you find yourself in a dangerous situation on a plane. The lives of everyone, including yours, are in your hands. This game is implemented using basic Python functionalities.
 
 ## Objective
 
