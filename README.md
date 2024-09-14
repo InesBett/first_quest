@@ -26,6 +26,8 @@ The objective of this project is to provide an interactive gaming experience whe
 
 The game is developed entirely in Python, utilizing fundamental concepts. Players make choices and navigate through the game by responding to prompts and challenges presented in the console.
 
+Please note: For best game performance please play in a standard Python environment.
+
 ## Project Structure
 
 This project consists of a single Python script that serves as the main game engine. The script contains all the necessary code to run the game and guide players through their adventures in the world of Skyfall Emergency.
